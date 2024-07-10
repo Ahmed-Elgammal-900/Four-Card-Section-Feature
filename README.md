@@ -16,8 +16,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-four-card-feature-with-html-and-css-8nk5izsrcL)
+- Live Site URL: [Live Site](https://ahmed-elgammal-900.github.io/Four-Card-Section-Feature/)
 
 
 
